@@ -1,3 +1,8 @@
 .bg-amarillo {
     background-color: #ffd700; /* Amarillo fuerte */
 }
+
+.titulo-principal {
+    font-family: 'Arial', sans-serif;
+    font-size: 2.5rem;
+}
