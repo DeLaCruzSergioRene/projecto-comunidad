@@ -11,3 +11,8 @@
     font-family: 'Verdana', sans-serif;
     margin-bottom: 1rem;
 }
+
+.texto-parrafo {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
